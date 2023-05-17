@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# TypeScript compiled files
+/dist
+
+# IDE files
+/.vscode
+/.idea
+
+# Logs
+npm-debug.log*
+
+# Environment variables
+.env*
+
+# Build files
+build/
+out/
